@@ -1,0 +1,6 @@
+# This assigns a random IP to eth1
+ip address add 30.1.1.1/24 dev eth1
+
+# This shows the eth1 config
+ip address show eth1
+
